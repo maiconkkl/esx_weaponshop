@@ -1,6 +1,6 @@
 Locales ['br'] = {
   ['buy_license'] = 'comprar licença de porte de arma?',
-  ['yes'] = 'sim',
+  ['yes'] = '%s',
   ['no'] = 'não',
   ['weapon_bought'] = 'comprado por %s R$',
   ['not_enough_black'] = 'você não tem dinheiro sujo suficiente',
